@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-shooping-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-shooping-app/static/js/main.2f80d82d.chunk.js",
+    "main.js.map": "/react-shooping-app/static/js/main.2f80d82d.chunk.js.map",
+    "runtime-main.js": "/react-shooping-app/static/js/runtime-main.ce237fbb.js",
+    "runtime-main.js.map": "/react-shooping-app/static/js/runtime-main.ce237fbb.js.map",
+    "static/js/2.29eb919f.chunk.js": "/react-shooping-app/static/js/2.29eb919f.chunk.js",
+    "static/js/2.29eb919f.chunk.js.map": "/react-shooping-app/static/js/2.29eb919f.chunk.js.map",
+    "index.html": "/react-shooping-app/index.html",
+    "precache-manifest.58895c1c12249d99db0b4185f8a0ac27.js": "/react-shooping-app/precache-manifest.58895c1c12249d99db0b4185f8a0ac27.js",
+    "service-worker.js": "/react-shooping-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react-shooping-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/react-shooping-app/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce237fbb.js",
+    "static/js/2.29eb919f.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.2f80d82d.chunk.js"
+  ]
+}
